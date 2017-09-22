@@ -1,5 +1,7 @@
 # Chess-AI-Unity
-Chess AI ported to Unity within a 1 day deadline
+
+Originally Created in a 1 week deadline in Qt 4.8 and ported within a day.
+
 Castling removed due to time constraints.
 
 Has one known issue:
